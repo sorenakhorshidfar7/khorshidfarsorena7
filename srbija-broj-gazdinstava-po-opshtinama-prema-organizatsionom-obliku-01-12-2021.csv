@@ -1,0 +1,1201 @@
+;Regija;NazivRegije;SifraOpstine;NazivOpstineL;OrgOblik;NazivOrgOblik;BrojGazdinstavaSva;BrojGazdinstavaAktivna
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;1;Porodi?no poljoprivredno gazdinstvo;1257;1146
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;2;Preduze?a;6;6
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;3;Preduzetnici;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;10;Barajevo              ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;1;Porodi?no poljoprivredno gazdinstvo;1664;1584
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;2;Preduze?a;43;42
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;3;Preduzetnici;6;6
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;4;Zemljoradni?ke zadruge;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;11;?ukarica;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;1;Porodi?no poljoprivredno gazdinstvo;2809;2696
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;2;Preduze?a;17;15
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;3;Preduzetnici;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;12;Grocka                ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;1;Porodi?no poljoprivredno gazdinstvo;1557;1435
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;2;Preduze?a;71;64
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;3;Preduzetnici;4;4
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;13;Novi Beograd          ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;1;Porodi?no poljoprivredno gazdinstvo;3287;3144
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;2;Preduze?a;7;7
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;3;Preduzetnici;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;14;Obrenovac             ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;1;Porodi?no poljoprivredno gazdinstvo;1991;1887
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;2;Preduze?a;51;47
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;3;Preduzetnici;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;15;Palilula              ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;1;Porodi?no poljoprivredno gazdinstvo;344;324
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;2;Preduze?a;29;26
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;3;Preduzetnici;3;3
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;16;Savski Venac          ;6;Nau?no istrživa?ke organizacije;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;1;Porodi?no poljoprivredno gazdinstvo;1393;1256
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;2;Preduze?a;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;3;Preduzetnici;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;17;Sopot                 ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;1;Porodi?no poljoprivredno gazdinstvo;385;362
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;2;Preduze?a;46;43
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;3;Preduzetnici;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;18;Stari Grad            ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;1;Porodi?no poljoprivredno gazdinstvo;1198;1104
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;2;Preduze?a;37;31
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;3;Preduzetnici;6;6
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;4;Zemljoradni?ke zadruge;1;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;19;Voždovac;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;1;Porodi?no poljoprivredno gazdinstvo;481;457
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;2;Preduze?a;42;41
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;3;Preduzetnici;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD;20;Vra?ar;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;1;Porodi?no poljoprivredno gazdinstvo;1282;1200
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;2;Preduze?a;50;45
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;3;Preduzetnici;8;8
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;4;Zemljoradni?ke zadruge;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;21;Zemun                 ;6;Nau?no istrživa?ke organizacije;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;1;Porodi?no poljoprivredno gazdinstvo;1314;1222
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;2;Preduze?a;23;20
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;3;Preduzetnici;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;22;Zvezdara              ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;1;Porodi?no poljoprivredno gazdinstvo;2050;1936
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;2;Preduze?a;5;4
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;3;Preduzetnici;9;8
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;4;Zemljoradni?ke zadruge;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;56;Lazarevac             ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;1;Porodi?no poljoprivredno gazdinstvo;3434;3116
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;2;Preduze?a;11;10
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;3;Preduzetnici;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;4;Zemljoradni?ke zadruge;3;3
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;70;Mladenovac            ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;1;Porodi?no poljoprivredno gazdinstvo;859;807
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;2;Preduze?a;11;11
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;3;Preduzetnici;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;4;Zemljoradni?ke zadruge;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;120;Rakovica              ;6;Nau?no istrživa?ke organizacije;0;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;1;Porodi?no poljoprivredno gazdinstvo;1187;1112
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;2;Preduze?a;24;20
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;3;Preduzetnici;2;2
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;4;Zemljoradni?ke zadruge;1;0
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+GRAD BEOGRAD          ;1;GRAD BEOGRAD          ;124;Surcin;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;1;Porodi?no poljoprivredno gazdinstvo;3638;3240
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;2;Preduze?a;64;51
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;3;Preduzetnici;5;5
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;4;Zemljoradni?ke zadruge;2;1
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;2;Severno-Ba?ki;206;Ba?ka Topola;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;1;Porodi?no poljoprivredno gazdinstvo;1014;896
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;2;Preduze?a;15;12
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;3;Preduzetnici;2;2
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;4;Zemljoradni?ke zadruge;2;2
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;2;Severno-Ba?ki;219;Mali I?oš;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;1;Porodi?no poljoprivredno gazdinstvo;7620;6967
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;2;Preduze?a;124;109
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;3;Preduzetnici;4;3
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;4;Zemljoradni?ke zadruge;9;8
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+VOJVODINA;2;Severno-Ba?ki;236;Subotica;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;1;Porodi?no poljoprivredno gazdinstvo;1669;1513
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;2;Preduze?a;9;7
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;3;Preduzetnici;1;1
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;4;Zemljoradni?ke zadruge;2;2
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;3;Srednje-Banatski      ;220;Nova Crnja            ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;1;Porodi?no poljoprivredno gazdinstvo;2207;1994
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;2;Preduze?a;19;18
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;3;Preduzetnici;2;2
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;4;Zemljoradni?ke zadruge;6;6
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;3;Srednje-Banatski;221;Novi Be?ej;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;1;Porodi?no poljoprivredno gazdinstvo;1708;1482
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;2;Preduze?a;24;22
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;3;Preduzetnici;0;0
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;4;Zemljoradni?ke zadruge;8;7
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;3;Srednje-Banatski;230;Se?anj;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;1;Porodi?no poljoprivredno gazdinstvo;5867;5324
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;2;Preduze?a;66;59
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;3;Preduzetnici;6;4
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;4;Zemljoradni?ke zadruge;16;16
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+VOJVODINA;3;Srednje-Banatski      ;242;Zrenjanin             ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;3;Srednje-Banatski;244;Žitište;1;Porodi?no poljoprivredno gazdinstvo;2767;2511
+VOJVODINA;3;Srednje-Banatski;244;Žitište;2;Preduze?a;27;27
+VOJVODINA;3;Srednje-Banatski;244;Žitište;3;Preduzetnici;3;3
+VOJVODINA;3;Srednje-Banatski;244;Žitište;4;Zemljoradni?ke zadruge;11;10
+VOJVODINA;3;Srednje-Banatski;244;Žitište;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;0
+VOJVODINA;3;Srednje-Banatski;244;Žitište;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;1;Porodi?no poljoprivredno gazdinstvo;1677;1586
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;2;Preduze?a;7;7
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;3;Preduzetnici;1;1
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;4;Zemljoradni?ke zadruge;0;0
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;4;Severno-Banatski      ;201;Ada                   ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski;211;?oka;1;Porodi?no poljoprivredno gazdinstvo;1331;1185
+VOJVODINA;4;Severno-Banatski;211;?oka;2;Preduze?a;9;9
+VOJVODINA;4;Severno-Banatski;211;?oka;3;Preduzetnici;0;0
+VOJVODINA;4;Severno-Banatski;211;?oka;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;4;Severno-Banatski;211;?oka;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;4;Severno-Banatski;211;?oka;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;1;Porodi?no poljoprivredno gazdinstvo;2948;2668
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;2;Preduze?a;16;15
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;3;Preduzetnici;6;6
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;4;Zemljoradni?ke zadruge;4;4
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;4;Severno-Banatski      ;214;Kanjiža ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;1;Porodi?no poljoprivredno gazdinstvo;4317;3787
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;2;Preduze?a;37;33
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;3;Preduzetnici;9;8
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;4;Zemljoradni?ke zadruge;0;0
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+VOJVODINA;4;Severno-Banatski      ;215;Kikinda               ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;1;Porodi?no poljoprivredno gazdinstvo;1165;954
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;2;Preduze?a;5;5
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;3;Preduzetnici;1;1
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;4;Severno-Banatski;222;Novi Kneževac;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;1;Porodi?no poljoprivredno gazdinstvo;1953;1840
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;2;Preduze?a;14;11
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;3;Preduzetnici;2;2
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;4;Severno-Banatski      ;231;Senta                 ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;202;Alibunar;1;Porodi?no poljoprivredno gazdinstvo;2768;2558
+VOJVODINA;5;Južno-Banatski;202;Alibunar;2;Preduze?a;26;25
+VOJVODINA;5;Južno-Banatski;202;Alibunar;3;Preduzetnici;2;2
+VOJVODINA;5;Južno-Banatski;202;Alibunar;4;Zemljoradni?ke zadruge;4;3
+VOJVODINA;5;Južno-Banatski;202;Alibunar;5;Poljoprivredna gazdinstva sa statusom pravnog lica;8;8
+VOJVODINA;5;Južno-Banatski;202;Alibunar;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;1;Porodi?no poljoprivredno gazdinstvo;1560;1441
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;2;Preduze?a;10;8
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;3;Preduzetnici;1;1
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;4;Zemljoradni?ke zadruge;2;1
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+VOJVODINA;5;Južno-Banatski;209;Bela Crkva;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;1;Porodi?no poljoprivredno gazdinstvo;2844;2628
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;2;Preduze?a;22;22
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;3;Preduzetnici;4;4
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;4;Zemljoradni?ke zadruge;10;9
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;5;Južno-Banatski;216;Kova?ica;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;217;Kovin;1;Porodi?no poljoprivredno gazdinstvo;2939;2735
+VOJVODINA;5;Južno-Banatski;217;Kovin;2;Preduze?a;26;24
+VOJVODINA;5;Južno-Banatski;217;Kovin;3;Preduzetnici;5;5
+VOJVODINA;5;Južno-Banatski;217;Kovin;4;Zemljoradni?ke zadruge;2;2
+VOJVODINA;5;Južno-Banatski;217;Kovin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;2
+VOJVODINA;5;Južno-Banatski;217;Kovin;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;225;Opovo;1;Porodi?no poljoprivredno gazdinstvo;1094;990
+VOJVODINA;5;Južno-Banatski;225;Opovo;2;Preduze?a;11;11
+VOJVODINA;5;Južno-Banatski;225;Opovo;3;Preduzetnici;3;3
+VOJVODINA;5;Južno-Banatski;225;Opovo;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;5;Južno-Banatski;225;Opovo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;5;Južno-Banatski;225;Opovo;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;1;Porodi?no poljoprivredno gazdinstvo;4336;3962
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;2;Preduze?a;55;50
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;3;Preduzetnici;3;2
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;4;Zemljoradni?ke zadruge;5;5
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;7;7
+VOJVODINA;5;Južno-Banatski;226;Pan?evo;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;228;Plandište;1;Porodi?no poljoprivredno gazdinstvo;1508;1347
+VOJVODINA;5;Južno-Banatski;228;Plandište;2;Preduze?a;21;20
+VOJVODINA;5;Južno-Banatski;228;Plandište;3;Preduzetnici;2;2
+VOJVODINA;5;Južno-Banatski;228;Plandište;4;Zemljoradni?ke zadruge;4;1
+VOJVODINA;5;Južno-Banatski;228;Plandište;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;5;Južno-Banatski;228;Plandište;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;5;Južno-Banatski;241;Vršac;1;Porodi?no poljoprivredno gazdinstvo;2791;2576
+VOJVODINA;5;Južno-Banatski;241;Vršac;2;Preduze?a;37;32
+VOJVODINA;5;Južno-Banatski;241;Vršac;3;Preduzetnici;9;8
+VOJVODINA;5;Južno-Banatski;241;Vršac;4;Zemljoradni?ke zadruge;3;3
+VOJVODINA;5;Južno-Banatski;241;Vršac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;7;6
+VOJVODINA;5;Južno-Banatski;241;Vršac;6;Nau?no istrživa?ke organizacije;1;1
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;1;Porodi?no poljoprivredno gazdinstvo;1448;1342
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;2;Preduze?a;8;7
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;3;Preduzetnici;0;0
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;6;Zapadno-Ba?ki;203;Apatin;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;1;Porodi?no poljoprivredno gazdinstvo;2938;2570
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;2;Preduze?a;29;25
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;3;Preduzetnici;5;4
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;4;Zemljoradni?ke zadruge;10;8
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;0
+VOJVODINA;6;Zapadno-Ba?ki;218;Kula;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;1;Porodi?no poljoprivredno gazdinstvo;3404;3051
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;2;Preduze?a;23;16
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;3;Preduzetnici;4;3
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;4;Zemljoradni?ke zadruge;11;11
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+VOJVODINA;6;Zapadno-Ba?ki;224;Odžaci;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;1;Porodi?no poljoprivredno gazdinstvo;7105;6467
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;2;Preduze?a;108;94
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;3;Preduzetnici;10;10
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;4;Zemljoradni?ke zadruge;12;11
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;5;Poljoprivredna gazdinstva sa statusom pravnog lica;6;5
+VOJVODINA;6;Zapadno-Ba?ki;232;Sombor;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;1;Porodi?no poljoprivredno gazdinstvo;1771;1574
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;2;Preduze?a;19;18
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;3;Preduzetnici;2;1
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;4;Zemljoradni?ke zadruge;4;3
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;7;5
+VOJVODINA;7;Južno-Ba?ki;204;Ba?;6;Nau?no istrživa?ke organizacije;1;0
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;1;Porodi?no poljoprivredno gazdinstvo;4518;4061
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;2;Preduze?a;37;34
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;3;Preduzetnici;8;7
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;4;Zemljoradni?ke zadruge;11;10
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;1
+VOJVODINA;7;Južno-Ba?ki;205;Ba?ka Palanka;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;1;Porodi?no poljoprivredno gazdinstvo;1542;1407
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;2;Preduze?a;18;18
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;3;Preduzetnici;1;1
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;4;Zemljoradni?ke zadruge;6;6
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;207;Ba?ki Petrovac;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;1;Porodi?no poljoprivredno gazdinstvo;2678;2508
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;2;Preduze?a;27;23
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;3;Preduzetnici;1;1
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;4;Zemljoradni?ke zadruge;2;2
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;208;Be?ej;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;1;Porodi?no poljoprivredno gazdinstvo;694;632
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;2;Preduze?a;11;9
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;3;Preduzetnici;13;13
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;4;Zemljoradni?ke zadruge;3;3
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;210;Beo?in;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;1;Porodi?no poljoprivredno gazdinstvo;6994;6451
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;2;Preduze?a;190;157
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;3;Preduzetnici;24;24
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;4;Zemljoradni?ke zadruge;10;9
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;7;Južno-Ba?ki;223;Novi Sad - grad;6;Nau?no istrživa?ke organizacije;2;2
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;1;Porodi?no poljoprivredno gazdinstvo;1514;1368
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;2;Preduze?a;15;12
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;3;Preduzetnici;1;1
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;4;Zemljoradni?ke zadruge;5;5
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;233;Srbobran;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;1;Porodi?no poljoprivredno gazdinstvo;1589;1432
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;2;Preduze?a;19;18
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;3;Preduzetnici;5;5
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;4;Zemljoradni?ke zadruge;4;3
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;1
+VOJVODINA;7;Južno-Ba?ki;238;Temerin;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;239;Titel;1;Porodi?no poljoprivredno gazdinstvo;1703;1573
+VOJVODINA;7;Južno-Ba?ki;239;Titel;2;Preduze?a;8;8
+VOJVODINA;7;Južno-Ba?ki;239;Titel;3;Preduzetnici;3;3
+VOJVODINA;7;Južno-Ba?ki;239;Titel;4;Zemljoradni?ke zadruge;2;1
+VOJVODINA;7;Južno-Ba?ki;239;Titel;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;239;Titel;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;1;Porodi?no poljoprivredno gazdinstvo;2620;2338
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;2;Preduze?a;28;25
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;3;Preduzetnici;2;2
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;4;Zemljoradni?ke zadruge;5;4
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;1
+VOJVODINA;7;Južno-Ba?ki;240;Vrbas;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;1;Porodi?no poljoprivredno gazdinstvo;2565;2284
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;2;Preduze?a;19;17
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;3;Preduzetnici;6;6
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;4;Zemljoradni?ke zadruge;2;2
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;7;Južno-Ba?ki;243;Žabalj;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;1;Porodi?no poljoprivredno gazdinstvo;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;2;Preduze?a;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;3;Preduzetnici;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;4;Zemljoradni?ke zadruge;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;247;Petrovaradin;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;1;Porodi?no poljoprivredno gazdinstvo;237;214
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;2;Preduze?a;10;10
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;3;Preduzetnici;9;9
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;4;Zemljoradni?ke zadruge;1;1
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;7;Južno-Ba?ki;250;Sremski Karlovci;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski;212;In?ija;1;Porodi?no poljoprivredno gazdinstvo;2324;2166
+VOJVODINA;8;Sremski;212;In?ija;2;Preduze?a;33;31
+VOJVODINA;8;Sremski;212;In?ija;3;Preduzetnici;7;6
+VOJVODINA;8;Sremski;212;In?ija;4;Zemljoradni?ke zadruge;16;14
+VOJVODINA;8;Sremski;212;In?ija;5;Poljoprivredna gazdinstva sa statusom pravnog lica;8;8
+VOJVODINA;8;Sremski;212;In?ija;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski               ;213;Irig                  ;1;Porodi?no poljoprivredno gazdinstvo;1172;1049
+VOJVODINA;8;Sremski               ;213;Irig                  ;2;Preduze?a;25;23
+VOJVODINA;8;Sremski               ;213;Irig                  ;3;Preduzetnici;10;10
+VOJVODINA;8;Sremski               ;213;Irig                  ;4;Zemljoradni?ke zadruge;3;3
+VOJVODINA;8;Sremski               ;213;Irig                  ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+VOJVODINA;8;Sremski               ;213;Irig                  ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski;227;Pe?inci;1;Porodi?no poljoprivredno gazdinstvo;2325;2076
+VOJVODINA;8;Sremski;227;Pe?inci;2;Preduze?a;21;19
+VOJVODINA;8;Sremski;227;Pe?inci;3;Preduzetnici;3;2
+VOJVODINA;8;Sremski;227;Pe?inci;4;Zemljoradni?ke zadruge;5;3
+VOJVODINA;8;Sremski;227;Pe?inci;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;8;Sremski;227;Pe?inci;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski               ;229;Ruma                  ;1;Porodi?no poljoprivredno gazdinstvo;3767;3373
+VOJVODINA;8;Sremski               ;229;Ruma                  ;2;Preduze?a;37;30
+VOJVODINA;8;Sremski               ;229;Ruma                  ;3;Preduzetnici;6;5
+VOJVODINA;8;Sremski               ;229;Ruma                  ;4;Zemljoradni?ke zadruge;8;6
+VOJVODINA;8;Sremski               ;229;Ruma                  ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;8;Sremski               ;229;Ruma                  ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;1;Porodi?no poljoprivredno gazdinstvo;6369;5747
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;2;Preduze?a;44;38
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;3;Preduzetnici;9;9
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;4;Zemljoradni?ke zadruge;8;5
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+VOJVODINA;8;Sremski               ;234;Sremska Mitrovica     ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;1;Porodi?no poljoprivredno gazdinstvo;2293;2117
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;2;Preduze?a;27;26
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;3;Preduzetnici;5;5
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;4;Zemljoradni?ke zadruge;2;1
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+VOJVODINA;8;Sremski               ;235;Stara Pazova          ;6;Nau?no istrživa?ke organizacije;0;0
+VOJVODINA;8;Sremski;237;Šid;1;Porodi?no poljoprivredno gazdinstvo;3396;3140
+VOJVODINA;8;Sremski;237;Šid;2;Preduze?a;34;28
+VOJVODINA;8;Sremski;237;Šid;3;Preduzetnici;6;5
+VOJVODINA;8;Sremski;237;Šid;4;Zemljoradni?ke zadruge;12;8
+VOJVODINA;8;Sremski;237;Šid;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;1
+VOJVODINA;8;Sremski;237;Šid;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;1;Porodi?no poljoprivredno gazdinstvo;5184;4735
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;2;Preduze?a;14;13
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;24;Bogati?;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;1;Porodi?no poljoprivredno gazdinstvo;2428;2219
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;2;Preduze?a;6;6
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;3;Preduzetnici;2;1
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;46;Koceljeva;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;1;Porodi?no poljoprivredno gazdinstvo;2933;2742
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;2;Preduze?a;12;11
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;51;Krupanj;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;1;Porodi?no poljoprivredno gazdinstvo;4732;4335
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;2;Preduze?a;14;14
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;1
+CENTRALNA SRBIJA;9;Ma?vanski;59;Loznica;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;1;Porodi?no poljoprivredno gazdinstvo;2398;2256
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;2;Preduze?a;15;13
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;4;Zemljoradni?ke zadruge;4;4
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;62;Ljubovija;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;1;Porodi?no poljoprivredno gazdinstvo;869;794
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;2;Preduze?a;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;65;Mali Zvornik;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;1;Porodi?no poljoprivredno gazdinstvo;10114;9400
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;2;Preduze?a;52;46
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;3;Preduzetnici;5;4
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;9;Ma?vanski;99;Šabac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;1;Porodi?no poljoprivredno gazdinstvo;3227;2958
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;2;Preduze?a;10;10
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;9;Ma?vanski;112;Vladimirci;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;1;Porodi?no poljoprivredno gazdinstvo;1390;1270
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;2;Preduze?a;1;1
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;55;Lajkovac              ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;1;Porodi?no poljoprivredno gazdinstvo;1803;1728
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;2;Preduze?a;3;3
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;61;Ljig                  ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;1;Porodi?no poljoprivredno gazdinstvo;2235;2012
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;2;Preduze?a;9;9
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;10;Kolubarski            ;69;Mionica               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;1;Porodi?no poljoprivredno gazdinstvo;2554;2397
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;2;Preduze?a;8;7
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;10;Kolubarski;76;Ose?ina;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;1;Porodi?no poljoprivredno gazdinstvo;4046;3805
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;2;Preduze?a;11;11
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;105;Ub                    ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;1;Porodi?no poljoprivredno gazdinstvo;5982;5570
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;2;Preduze?a;22;22
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;3;Preduzetnici;7;7
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;10;Kolubarski            ;107;Valjevo               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;1;Porodi?no poljoprivredno gazdinstvo;3863;3604
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;2;Preduze?a;26;23
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;3;Preduzetnici;9;8
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;4;Zemljoradni?ke zadruge;7;5
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;11;Podunavski            ;92;Smederevo             ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;1;Porodi?no poljoprivredno gazdinstvo;3449;3184
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;2;Preduze?a;13;13
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;4;Zemljoradni?ke zadruge;3;2
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;11;Podunavski            ;93;Smederevska Palanka   ;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;1;Porodi?no poljoprivredno gazdinstvo;2643;2384
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;2;Preduze?a;19;19
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;11;Podunavski            ;109;Velika Plana          ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;1;Porodi?no poljoprivredno gazdinstvo;900;859
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;2;Preduze?a;2;2
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;12;Brani?evski;40;Golubac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;1;Porodi?no poljoprivredno gazdinstvo;982;941
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;2;Preduze?a;0;0
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;12;Brani?evski;53;Ku?evo;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;1;Porodi?no poljoprivredno gazdinstvo;1370;1292
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;2;Preduze?a;3;3
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;12;Brani?evski;66;Malo Crni?e;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;1;Porodi?no poljoprivredno gazdinstvo;2733;2630
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;2;Preduze?a;5;4
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;3;Preduzetnici;4;2
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;12;Brani?evski;78;Petrovac na Mlavi;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;1;Porodi?no poljoprivredno gazdinstvo;2057;1950
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;2;Preduze?a;9;8
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;12;Brani?evski;80;Požarevac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;1;Porodi?no poljoprivredno gazdinstvo;1886;1802
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;2;Preduze?a;6;6
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;12;Brani?evski;110;Veliko Gradište;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;1;Porodi?no poljoprivredno gazdinstvo;1388;1320
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;2;Preduze?a;4;4
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;12;Brani?evski;117;Žabari;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;1;Porodi?no poljoprivredno gazdinstvo;1942;1840
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;2;Preduze?a;4;4
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;12;Brani?evski;118;Žagubica;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;1;Porodi?no poljoprivredno gazdinstvo;273;262
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;2;Preduze?a;0;0
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;12;Brani?evski;129;Kostolac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;1;Porodi?no poljoprivredno gazdinstvo;2860;2583
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;2;Preduze?a;17;17
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;3;Preduzetnici;9;9
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;13;Šumadijski;3;Aran?elovac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;1;Porodi?no poljoprivredno gazdinstvo;1084;1030
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;2;Preduze?a;10;7
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;13;Šumadijski;8;Bato?ina;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;1;Porodi?no poljoprivredno gazdinstvo;2479;2320
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;2;Preduze?a;10;10
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;4;Zemljoradni?ke zadruge;4;4
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;13;Šumadijski;44;Kni?;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;1;Porodi?no poljoprivredno gazdinstvo;6761;6325
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;2;Preduze?a;27;25
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;3;Preduzetnici;7;7
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;13;Šumadijski;49;Kragujevac - grad;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;1;Porodi?no poljoprivredno gazdinstvo;1882;1720
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;2;Preduze?a;4;4
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;13;Šumadijski;86;Ra?a Kragujeva?ka;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;1;Porodi?no poljoprivredno gazdinstvo;3294;3005
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;2;Preduze?a;23;23
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;3;Preduzetnici;6;6
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;2
+CENTRALNA SRBIJA;13;Šumadijski;101;Topola;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;1;Porodi?no poljoprivredno gazdinstvo;480;461
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;2;Preduze?a;1;1
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;13;Šumadijski;121;Lapovo;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;1;Porodi?no poljoprivredno gazdinstvo;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;2;Preduze?a;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;13;Šumadijski;123;Stragari;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;1;Porodi?no poljoprivredno gazdinstvo;1613;1404
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;2;Preduze?a;8;6
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;14;Pomoravski;33;?uprija;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;1;Porodi?no poljoprivredno gazdinstvo;1772;1691
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;2;Preduze?a;4;4
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;14;Pomoravski            ;36;Despotovac            ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;1;Porodi?no poljoprivredno gazdinstvo;3674;3419
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;2;Preduze?a;22;21
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;0
+CENTRALNA SRBIJA;14;Pomoravski;77;Para?in;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;1;Porodi?no poljoprivredno gazdinstvo;2195;1952
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;2;Preduze?a;12;12
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;89;Rekovac               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;1;Porodi?no poljoprivredno gazdinstvo;4254;3732
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;2;Preduze?a;17;15
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;96;Jagodina              ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;1;Porodi?no poljoprivredno gazdinstvo;2010;1910
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;2;Preduze?a;9;9
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;14;Pomoravski            ;97;Svilajnac             ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;1;Porodi?no poljoprivredno gazdinstvo;2216;2098
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;2;Preduze?a;1;1
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;15;Borski                ;27;Bor                   ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;1;Porodi?no poljoprivredno gazdinstvo;1036;988
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;2;Preduze?a;6;6
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;15;Borski                ;43;Kladovo               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;1;Porodi?no poljoprivredno gazdinstvo;1088;1024
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;2;Preduze?a;0;0
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;15;Borski                ;63;Majdanpek/D.Milan44290;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;1;Porodi?no poljoprivredno gazdinstvo;2615;2454
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;2;Preduze?a;15;12
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;3;Preduzetnici;15;13
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;4;Zemljoradni?ke zadruge;4;4
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;4;4
+CENTRALNA SRBIJA;15;Borski                ;72;Negotin               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;1;Porodi?no poljoprivredno gazdinstvo;1961;1795
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;2;Preduze?a;5;4
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;26;Boljevac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;1;Porodi?no poljoprivredno gazdinstvo;3104;2894
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;2;Preduze?a;9;8
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;45;Knjaževac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;1;Porodi?no poljoprivredno gazdinstvo;2270;2003
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;2;Preduze?a;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;94;Sokobanja;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;1;Porodi?no poljoprivredno gazdinstvo;4212;3899
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;2;Preduze?a;7;7
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;16;Zaje?arski;116;Zaje?ar;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;1;Porodi?no poljoprivredno gazdinstvo;3716;3524
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;2;Preduze?a;40;39
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;3;Preduzetnici;18;18
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;4;Zemljoradni?ke zadruge;5;4
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;6;6
+CENTRALNA SRBIJA;17;Zlatiborski           ;4;Arilje                ;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;1;Porodi?no poljoprivredno gazdinstvo;4134;4003
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;2;Preduze?a;20;19
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;3;Preduzetnici;9;9
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;5;Poljoprivredna gazdinstva sa statusom pravnog lica;5;5
+CENTRALNA SRBIJA;17;Zlatiborski;7;Bajina Bašta;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;1;Porodi?no poljoprivredno gazdinstvo;2289;2179
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;2;Preduze?a;12;12
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;35;?ajetina;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;1;Porodi?no poljoprivredno gazdinstvo;6044;5784
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;2;Preduze?a;15;13
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;3;Preduzetnici;11;10
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+CENTRALNA SRBIJA;18;Moravi?ki;42;Ivanjica              ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;1;Porodi?no poljoprivredno gazdinstvo;2378;2258
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;2;Preduze?a;12;12
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;3;Preduzetnici;7;7
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;48;Kosjeri?;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;1;Porodi?no poljoprivredno gazdinstvo;2872;2621
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;2;Preduze?a;5;5
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;74;Nova Varoš;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;1;Porodi?no poljoprivredno gazdinstvo;4189;4074
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;2;Preduze?a;12;12
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;3;Preduzetnici;7;7
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;4;Zemljoradni?ke zadruge;4;3
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;81;Požega;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;1;Porodi?no poljoprivredno gazdinstvo;2942;2696
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;2;Preduze?a;3;2
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;83;Priboj ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;1;Porodi?no poljoprivredno gazdinstvo;5477;4669
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;2;Preduze?a;15;13
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;4;Zemljoradni?ke zadruge;4;3
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;17;Zlatiborski           ;84;Prijepolje            ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;1;Porodi?no poljoprivredno gazdinstvo;4486;4170
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;2;Preduze?a;5;3
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;4;4
+CENTRALNA SRBIJA;17;Zlatiborski           ;91;Sjenica               ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;1;Porodi?no poljoprivredno gazdinstvo;7302;7038
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;2;Preduze?a;21;20
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;3;Preduzetnici;8;8
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;4;Zemljoradni?ke zadruge;2;0
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;17;Zlatiborski;100;Užice;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;1;Porodi?no poljoprivredno gazdinstvo;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;2;Preduze?a;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;17;Zlatiborski;131;Užice-Sevojno;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;1;Porodi?no poljoprivredno gazdinstvo;8521;8039
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;2;Preduze?a;30;30
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;4;Zemljoradni?ke zadruge;5;5
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+CENTRALNA SRBIJA;18;Moravi?ki;34;?a?ak;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;1;Porodi?no poljoprivredno gazdinstvo;5105;4795
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;2;Preduze?a;7;7
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;3;Preduzetnici;6;6
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;4;Zemljoradni?ke zadruge;4;4
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;18;Moravi?ki;41;Gornji Milanovac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;1;Porodi?no poljoprivredno gazdinstvo;4098;3939
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;2;Preduze?a;19;19
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;3;Preduzetnici;13;13
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+CENTRALNA SRBIJA;18;Moravi?ki;60;Lu?ani /Gu?a 41302;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;1;Porodi?no poljoprivredno gazdinstvo;7857;7451
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;2;Preduze?a;34;32
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;3;Preduzetnici;8;7
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;19;Raški;50;Kraljevo;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;1;Porodi?no poljoprivredno gazdinstvo;3423;3083
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;2;Preduze?a;11;10
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;19;Raški;75;Novi Pazar;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;19;Raški;87;Raška;1;Porodi?no poljoprivredno gazdinstvo;2263;2135
+CENTRALNA SRBIJA;19;Raški;87;Raška;2;Preduze?a;10;10
+CENTRALNA SRBIJA;19;Raški;87;Raška;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;19;Raški;87;Raška;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;19;Raški;87;Raška;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;19;Raški;87;Raška;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;19;Raški;104;Tutin;1;Porodi?no poljoprivredno gazdinstvo;2908;2669
+CENTRALNA SRBIJA;19;Raški;104;Tutin;2;Preduze?a;6;5
+CENTRALNA SRBIJA;19;Raški;104;Tutin;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;19;Raški;104;Tutin;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;19;Raški;104;Tutin;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;19;Raški;104;Tutin;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;1;Porodi?no poljoprivredno gazdinstvo;1419;1321
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;2;Preduze?a;11;11
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;19;Raški;115;Vrnja?ka Banja;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;1;Porodi?no poljoprivredno gazdinstvo;4172;4016
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;2;Preduze?a;26;26
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;3;Preduzetnici;33;31
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;4;Zemljoradni?ke zadruge;4;3
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;1;Aleksandrovac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;1;Porodi?no poljoprivredno gazdinstvo;3294;3141
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;2;Preduze?a;25;24
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;3;Preduzetnici;5;5
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;20;Rasinski              ;29;Brus                  ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;1;Porodi?no poljoprivredno gazdinstvo;788;733
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;2;Preduze?a;5;5
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;20;Rasinski;32;?i?evac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;1;Porodi?no poljoprivredno gazdinstvo;6567;6155
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;2;Preduze?a;54;52
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;3;Preduzetnici;45;45
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;4;Zemljoradni?ke zadruge;8;8
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;3;3
+CENTRALNA SRBIJA;20;Rasinski;52;Kruševac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;1;Porodi?no poljoprivredno gazdinstvo;1595;1471
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;2;Preduze?a;5;4
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;20;Rasinski;88;Ražanj;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;1;Porodi?no poljoprivredno gazdinstvo;4400;4087
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;2;Preduze?a;37;36
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;3;Preduzetnici;34;34
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;20;Rasinski              ;103;Trstenik              ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;1;Porodi?no poljoprivredno gazdinstvo;2412;2262
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;2;Preduze?a;4;3
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;20;Rasinski              ;108;Varvarin              ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;1;Porodi?no poljoprivredno gazdinstvo;4279;3851
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;2;Preduze?a;7;7
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;21;Nišavski              ;2;Aleksinac;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;1;Porodi?no poljoprivredno gazdinstvo;1373;1151
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;2;Preduze?a;4;4
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;38;Doljevac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;1;Porodi?no poljoprivredno gazdinstvo;913;787
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;2;Preduze?a;3;3
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;39;Gadžin Han;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;1;Porodi?no poljoprivredno gazdinstvo;2013;1823
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;2;Preduze?a;6;6
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;68;Merošina;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;1;Porodi?no poljoprivredno gazdinstvo;422;354
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;2;Preduze?a;2;1
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;21;Nišavski;73;Niš -grad;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;1;Porodi?no poljoprivredno gazdinstvo;2686;2466
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;2;Preduze?a;11;9
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;98;Svrljig;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;1;Porodi?no poljoprivredno gazdinstvo;252;223
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;2;Preduze?a;1;1
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;122;Niška Banja;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;1;Porodi?no poljoprivredno gazdinstvo;922;844
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;2;Preduze?a;7;5
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;125;Nis-Pantelej;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;1;Porodi?no poljoprivredno gazdinstvo;940;860
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;2;Preduze?a;6;6
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;126;Nis-Crveni Krst;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;1;Porodi?no poljoprivredno gazdinstvo;1366;1254
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;2;Preduze?a;2;2
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;21;Nišavski;127;Nis-Palilula;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;1;Porodi?no poljoprivredno gazdinstvo;824;758
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;2;Preduze?a;5;3
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;21;Nišavski;128;Nis-Mediana;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;1;Porodi?no poljoprivredno gazdinstvo;2226;1950
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;2;Preduze?a;16;16
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;3;Preduzetnici;11;10
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;4;Zemljoradni?ke zadruge;5;5
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;22;Topli?ki;23;Blace;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;1;Porodi?no poljoprivredno gazdinstvo;2900;2294
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;2;Preduze?a;5;5
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;22;Topli?ki;54;Kuršumlija;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;1;Porodi?no poljoprivredno gazdinstvo;3495;3142
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;2;Preduze?a;16;15
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;3;Preduzetnici;9;9
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;22;Topli?ki;85;Prokuplje;6;Nau?no istrživa?ke organizacije;1;1
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;1;Porodi?no poljoprivredno gazdinstvo;2574;2237
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;2;Preduze?a;4;4
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;3;Preduzetnici;6;6
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;4;Zemljoradni?ke zadruge;3;3
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;22;Topli?ki;119;Žitora?a;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;1;Porodi?no poljoprivredno gazdinstvo;1226;1121
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;2;Preduze?a;3;3
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;23;Pirotski;6;Babušnica;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;1;Porodi?no poljoprivredno gazdinstvo;941;849
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;2;Preduze?a;6;6
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;4;Zemljoradni?ke zadruge;2;2
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;23;Pirotski              ;9;Bela Palanka          ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;1;Porodi?no poljoprivredno gazdinstvo;578;528
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;2;Preduze?a;10;10
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;37;Dimitrovgrad          ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;1;Porodi?no poljoprivredno gazdinstvo;2872;2637
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;2;Preduze?a;13;9
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;4;Zemljoradni?ke zadruge;4;2
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;2;2
+CENTRALNA SRBIJA;23;Pirotski              ;79;Pirot                 ;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;1;Porodi?no poljoprivredno gazdinstvo;1502;1425
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;2;Preduze?a;5;4
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;3;Preduzetnici;1;1
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;4;Zemljoradni?ke zadruge;1;0
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;25;Bojnik;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;1;Porodi?no poljoprivredno gazdinstvo;209;177
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;2;Preduze?a;2;2
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;4;Zemljoradni?ke zadruge;2;1
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;0
+CENTRALNA SRBIJA;24;Jablani?ki;31;Crna Trava;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;1;Porodi?no poljoprivredno gazdinstvo;2795;2650
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;2;Preduze?a;7;5
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;57;Lebane;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;1;Porodi?no poljoprivredno gazdinstvo;10732;10126
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;2;Preduze?a;34;31
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;3;Preduzetnici;14;14
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;4;Zemljoradni?ke zadruge;9;9
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;58;Leskovac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;1;Porodi?no poljoprivredno gazdinstvo;960;913
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;2;Preduze?a;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;67;Medve?a;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;1;Porodi?no poljoprivredno gazdinstvo;3240;3007
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;2;Preduze?a;6;6
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;24;Jablani?ki;113;Vlasotince;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;1;Porodi?no poljoprivredno gazdinstvo;1418;1316
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;2;Preduze?a;2;1
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;25;P?injski;28;Bosilegrad;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;1;Porodi?no poljoprivredno gazdinstvo;2255;2052
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;2;Preduze?a;7;7
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;25;P?injski;30;Bujanovac;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;1;Porodi?no poljoprivredno gazdinstvo;1433;1343
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;2;Preduze?a;1;1
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;25;P?injski;82;Preševo;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;1;Porodi?no poljoprivredno gazdinstvo;1745;1676
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;2;Preduze?a;3;3
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;3;Preduzetnici;2;2
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;25;P?injski;95;Surdulica;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;1;Porodi?no poljoprivredno gazdinstvo;655;610
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;2;Preduze?a;2;2
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;25;P?injski;102;Trgovište;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;1;Porodi?no poljoprivredno gazdinstvo;2151;2009
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;2;Preduze?a;6;4
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;3;Preduzetnici;4;4
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;4;Zemljoradni?ke zadruge;3;1
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;25;P?injski;111;Vladi?in Han;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;1;Porodi?no poljoprivredno gazdinstvo;3629;3405
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;2;Preduze?a;18;16
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;3;Preduzetnici;3;3
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;4;Zemljoradni?ke zadruge;0;0
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+CENTRALNA SRBIJA;25;P?injski;114;Vranje;6;Nau?no istrživa?ke organizacije;0;0
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;1;Porodi?no poljoprivredno gazdinstvo;582;536
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;2;Preduze?a;2;1
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;3;Preduzetnici;0;0
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;4;Zemljoradni?ke zadruge;1;1
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+CENTRALNA SRBIJA;25;P?injski;130;Vranjska Banja;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;1;Porodi?no poljoprivredno gazdinstvo;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;301;De?ani;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;1;Porodi?no poljoprivredno gazdinstvo;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;304;Glogovac              ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;1;Porodi?no poljoprivredno gazdinstvo;1;1
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;307;Ka?anik;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;1;Porodi?no poljoprivredno gazdinstvo;738;673
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+KOSOVO I METOHIJA;26;Kosovski              ;312;Lipljan               ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;1;Porodi?no poljoprivredno gazdinstvo;6;4
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;315;Podujevo              ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;1;Porodi?no poljoprivredno gazdinstvo;646;569
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;2;Preduze?a;2;2
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;316;Priština - grad;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;1;Porodi?no poljoprivredno gazdinstvo;37;34
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;320;Uroševac;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;1;Porodi?no poljoprivredno gazdinstvo;6;5
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;325;Štimlje;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;1;Porodi?no poljoprivredno gazdinstvo;215;213
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;326;Štrpce;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;1;Porodi?no poljoprivredno gazdinstvo;95;83
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski;327;Obili?;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;1;Porodi?no poljoprivredno gazdinstvo;187;159
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;26;Kosovski              ;328;Kosovo Polje          ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;1;Porodi?no poljoprivredno gazdinstvo;3;2
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;2;Preduze?a;0;0
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;27;Pe?ki;303;?akovica;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;1;Porodi?no poljoprivredno gazdinstvo;150;135
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;2;Preduze?a;0;0
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;27;Pe?ki;306;Istok;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;1;Porodi?no poljoprivredno gazdinstvo;65;61
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;2;Preduze?a;0;0
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;27;Pe?ki;308;Klina;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;1;Porodi?no poljoprivredno gazdinstvo;59;54
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;2;Preduze?a;0;0
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;4;Zemljoradni?ke zadruge;1;1
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;27;Pe?ki;314;Pe?;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;1;Porodi?no poljoprivredno gazdinstvo;24;23
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;313;Orahovac              ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;1;Porodi?no poljoprivredno gazdinstvo;4;4
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;317;Prizren               ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;1;Porodi?no poljoprivredno gazdinstvo;2;2
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;319;Suva Reka             ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;1;Porodi?no poljoprivredno gazdinstvo;8;8
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;28;Prizrenski            ;331;Gora                  ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;1;Porodi?no poljoprivredno gazdinstvo;156;154
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;2;Preduze?a;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;310;Kosovska Mitrovica;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;1;Porodi?no poljoprivredno gazdinstvo;1849;1801
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;2;Preduze?a;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;4;Zemljoradni?ke zadruge;1;1
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;311;Leposavi?;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;1;Porodi?no poljoprivredno gazdinstvo;29;25
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;2;Preduze?a;1;1
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;318;Srbica;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;1;Porodi?no poljoprivredno gazdinstvo;166;160
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;2;Preduze?a;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;322;Vu?itrn;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;1;Porodi?no poljoprivredno gazdinstvo;419;416
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;2;Preduze?a;1;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;4;Zemljoradni?ke zadruge;1;1
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;324;Zubin Potok;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;1;Porodi?no poljoprivredno gazdinstvo;225;221
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;2;Preduze?a;1;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;29;Kosovsko-Mitrova?ki;330;Zve?an;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;1;Porodi?no poljoprivredno gazdinstvo;786;764
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;1;1
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;305;Gnjilane              ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;1;Porodi?no poljoprivredno gazdinstvo;821;798
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;2;Preduze?a;1;1
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;309;Kosovska Kamenica     ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;1;Porodi?no poljoprivredno gazdinstvo;174;169
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;321;Vitina                ;6;Nau?no istrživa?ke organizacije;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;1;Porodi?no poljoprivredno gazdinstvo;180;161
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;2;Preduze?a;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;3;Preduzetnici;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;4;Zemljoradni?ke zadruge;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;5;Poljoprivredna gazdinstva sa statusom pravnog lica;0;0
+KOSOVO I METOHIJA;30;Kosovsko-Pomoravski   ;329;Novo Brdo             ;6;Nau?no istrživa?ke organizacije;0;0
